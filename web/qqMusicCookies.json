@@ -1,0 +1,41 @@
+{
+    "cookies": {
+        "openid": "92BBCACCB642E2DCC8B8F4235FE2A019",
+        "refresh_token": "3E6AD564442EA18AECE2DBE3B6EDDB3F",
+        "access_token": "31B4C0F76BAD8132DF78094FA5986D44",
+        "expired_at": 1750929432,
+        "musicid": 1909148276,
+        "musickey": "Q_H_L_63k3NSbAhTbvRjhd5XTuWCXudwPEP2rQnh5KiymGcn4bUdnJRa33s75D1SBZECwUOYd2VrQvoeO3QEsq52JPcHyQUFJ7feN2Gt4-v-4oEITK0xEobxkhtSAeGKnrXAZwDes216h5oAYQalkr85u2QNw",
+        "unionid": "3CD6492459888F3434A3D57FC1130E25",
+        "str_musicid": "1909148276",
+        "refresh_key": "64aN2VF5XZj4sanKEGhBIgHp6V_cATnWdrhsbkinnxa6hpfriiABPdMM8XAx7gDQWCTXLKqfif-QA-w2oRMrk1RWpbNlmWMWi3exxLmbQFrrS52Zgjbt8fyNbmEsNjTOE66z4CjGd951E-9MzS0oLVZg",
+        "extra_fields": {
+            "musickeyCreateTime": 1745745432,
+            "first_login": 0,
+            "errMsg": "",
+            "sessionKey": "",
+            "errtip": "",
+            "nick": "",
+            "logo": "",
+            "feedbackURL": "",
+            "userip": "180.167.66.50",
+            "lastLoginTime": 0,
+            "keyExpiresIn": 259200,
+            "prompt2bind": 0,
+            "logoffStatus": 0,
+            "otherAccounts": [],
+            "otherPhoneNo": "",
+            "token": "",
+            "isPrized": -1,
+            "isShowDevManage": 1,
+            "errTip2": "",
+            "tip3": "",
+            "encryptedPhoneNo": "",
+            "phoneNo": "",
+            "bindAccountType": 2,
+            "needRefreshKeyIn": 0
+        },
+        "loginType": 2,
+        "encryptUin": "oKEzNK6PNe-l7c**"
+    }
+}

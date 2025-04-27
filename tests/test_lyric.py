@@ -12,7 +12,7 @@ async def test_get_lyric():
         trans=True,
         roma=True,
     )
-
+    print(lyric)
     assert lyric["lyric"]
     assert lyric["trans"]
     assert lyric["roma"]
